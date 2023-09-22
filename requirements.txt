@@ -1,4 +1,4 @@
 transcribe
-streamlit
-streamlit_authenticator
-
+streamlit==1.26.0
+streamlit_authenticator==0.1.5
+python-docx
